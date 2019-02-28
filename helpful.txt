@@ -1,0 +1,1 @@
+Sacrificial Architecture https://martinfowler.com/bliki/SacrificialArchitecture.html
